@@ -13,7 +13,7 @@ export default function HeroSection(){
             <h1>Hello I Am<span>Tanzeela Syeda!</span></h1>
             <h2>I Am a<br /><span>Web Developer...</span></h2>
             <p >I am a student of GIAIC,quater 02: but curently i learning <br />
-            <i> "next.js" #15,</i> Language in this <b>Quater 02:</b></p>
+            <i> next.js #15,</i> Language in this <b>Quater 02:</b></p>
             <br />
 
            <ul className="hero-li">

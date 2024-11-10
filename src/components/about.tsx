@@ -12,8 +12,8 @@ export default function About(){
             <h2 className="about-head">About Me</h2>
             <p className="about-para">Hi, I Am Tanzeela Syeda, a matric student passionate about learning new things, especially in science,
                 technology, and coding! I enjoy solving problems and exploring creative ways to improve my skills. 
-                Outside of academics, I like my best hobbies writing code , blogging, photography etc. I'm excited 
-                to see where my studies will take me, and I'm always eager to take on new challenges and grow!</p>
+                Outside of academics, I like my best hobbies writing code , blogging, photography etc. I am excited 
+                to see where my studies will take me, and I am always eager to take on new challenges and grow!</p>
             </div>
             
         </div>
